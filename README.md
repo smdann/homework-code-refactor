@@ -2,7 +2,7 @@
 
 ## Description
 
-This webpage has been modified to meet accessibility requirements. The code has been refactored (improved but not changed) so that users with disabilities, requiring the use of assistive technologies, may access the website content. The code has been reassigned with the appropriate sematic HTML tags so that each element is clearly defined. 
+This webpage has been modified to meet accessibility requirements. The code has been refactored (improved but not changed) so that users with disabilities, requiring the use of assistive technologies, may access the website content. The code has been reassigned with the appropriate sematic HTML tags so that each element is clearly defined. The use of semantic HTML elements also optimizes the website for search engines. 
 
 ## Installation
 
@@ -17,6 +17,10 @@ This website belongs to Horiseon Social Solution Services, LLC. They are a compa
 ## Credits
 
 N/A
+
+## Link to Deployed Website
+
+[Horiseon Social Solution Services](smdann.github.io/homework-code-refactor/)
 
 ## License
 
