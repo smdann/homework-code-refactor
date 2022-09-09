@@ -20,7 +20,7 @@ N/A
 
 ## Link to Deployed Website
 
-[Horiseon Social Solution Services](smdann.github.io/homework-code-refactor/)
+[Horiseon Social Solution Services](https://smdann.github.io/homework-code-refactor/)
 
 ## License
 
