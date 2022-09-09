@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-This website belongs to Horiseon Social Solution Services, LLC. They are a company specializing in SEO and digital marketing. The website contains information about search engine optimization, online reputation management, and solial media marketing. Their services tout the ability to provide customers with lead generation, brand awareness, and cost management. This can be seen in the image below.
+This website belongs to Horiseon Social Solution Services, LLC. They are a company specializing in SEO and digital marketing. The website contains information about search engine optimization, online reputation management, and social media marketing. Their services tout the ability to provide customers with lead generation, brand awareness, and cost management. This can be seen in the image below.
 
 ![horiseon website screenshot](assets/images/horiseon-website-screenshot.png)
 
